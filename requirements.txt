@@ -1,0 +1,9 @@
+jupyter
+#giskard==1.7.0a7
+transformers
+tweepy
+datasets
+pandas
+numpy
+torch
+mlflow
